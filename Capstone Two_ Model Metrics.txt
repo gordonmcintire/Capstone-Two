@@ -1,0 +1,17 @@
+﻿Capstone Two: Model Metrics
+
+
+
+
+Model
+	Precision
+	Recall
+	F1
+	Logistic Regression
+	0.67
+	0.66
+	0.66
+	Random Forest
+	0.55
+	0.54
+	0.46
